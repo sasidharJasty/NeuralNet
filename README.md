@@ -327,10 +327,6 @@ This project is open source and available under the MIT License.
 - [ ] Hyperparameter optimization
 - [ ] Cross-validation support
 
-## 📞 Contact
-
-For questions or suggestions, please open an issue on GitHub.
-
 ---
 
 **Note**: This implementation is for educational purposes to understand the fundamentals of neural networks. For production use, consider established frameworks like TensorFlow or PyTorch.
